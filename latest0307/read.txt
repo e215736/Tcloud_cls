@@ -1,0 +1,3 @@
+EVAL:学習済みモデルをGradcamとか分析
+grid:CNNの学習
+head:vitの最後の分類層のみ学習
