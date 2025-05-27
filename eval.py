@@ -1,7 +1,6 @@
 """
-eval.py とmean_std.pyがセット。
-この train.py は、画像分類モデルを学習するための Python スクリプトです。
-特に、k分割交差検証 と 転移学習 を用いて、モデルの汎化性能を高める工夫がされています。
+grid-aug-effiv2-orig.py と　eval.py とmean_std.pyがセット。
+
 """
 from __future__ import print_function, division
 
